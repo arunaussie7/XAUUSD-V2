@@ -1,0 +1,12 @@
+flask
+pandas
+matplotlib
+joblib
+numpy
+scikit-learn
+gunicorn
+MetaTrader5
+mplfinance
+yfinance
+requests
+textblob 
